@@ -26,22 +26,27 @@ function Navbar() {
     {
       text: "Home",
       icon: <HomeIcon />,
+      link: "/",
     },
     {
-      text: "About",
+      text: "Sobre",
       icon: <InfoIcon />,
+      link: "sobre",
     },
     {
-      text: "Testimonials",
+      text: "Depoimentos",
       icon: <CommentRoundedIcon />,
+      link: "depoimentos",
     },
     {
-      text: "Contact",
+      text: "Contatos",
       icon: <PhoneRoundedIcon />,
+      link: "contatos",
     },
     {
-      text: "Cart",
+      text: "Carrinho",
       icon: <ShoppingCartRoundedIcon />,
+      link: "carrinho",
     },
   ];
   return (
@@ -72,7 +77,7 @@ function Navbar() {
           <List>
             {menuOptions.map((item) => (
               <ListItem key={item.text} disablePadding>
-                <ListItemButton>
+                <ListItemButton href={`#${item.link}`}>
                   <ListItemIcon>{item.icon}</ListItemIcon>
                   <ListItemText primary={item.text} />
                 </ListItemButton>
