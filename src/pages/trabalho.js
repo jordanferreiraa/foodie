@@ -8,18 +8,18 @@ function Trabalho() {
   const workInfoData = [
     {
       image: PickMeals,
-      title: "Escolha as refeições",
-      text: "Lorem",
+      title: "Escolha seus pratos",
+      text: "Navegue em nosso cardápio e selecione suas refeições favoritas.",
     },
     {
       image: ChooseMeals,
-      title: "Escolha com que frequência",
-      text: "Lorem",
+      title: "Faça o pedido",
+      text: "Confirme seu pedido, sua entrega e a forma de pagamento.",
     },
     {
       image: DeliveryMeals,
-      title: "Entregas muito rápidas",
-      text: "Lorem",
+      title: "Relaxe e espere a entraga",
+      text: "Entregamos com rapidez para que você possa desfrutar de uma refeição quentinha e de qualidade.",
     },
   ]
 
@@ -29,7 +29,7 @@ function Trabalho() {
         <p className="primary-subheading">Funcionamento</p>
         <h1 className="primary-heading">Como funciona</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et elit. Dolor  turpis molestie dui magnis facilisis at fringilla quam.
+          O Foodie simplifica o processo de pedir comida de alta qualidade. Navegue, escolha, peça e desfrute. Não poderia ser mais fácil.
         </p>
       </div>
 

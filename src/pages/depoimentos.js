@@ -9,14 +9,14 @@ function Depoimentos() {
         <p className="primary-subheading">Depoimentos</p>
         <h1 className="primary-heading">O que estão dizendo</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et elit. Dolor  turpis molestie duimagnis facilisis at fringilla quam.
+          Acompanhe alguns dos feedbacks dos nossos clientes. Somos referência na região.
         </p>
       </div>
 
       <div className="testimonial-section-bottom">
         <Image src={ProfilePic} alt="" />
         <p className="">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et elit. Dolor  turpis molestie duimagnis facilisis at fringilla quam.
+          Adoro o Foodie! As opções de cardápio são variadas, a comida é sempre fresca e deliciosa. É como ter um chef particular em casa.
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />

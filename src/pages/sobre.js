@@ -18,10 +18,10 @@ function Sobre() {
           O alimento é uma parte importante de uma dieta equilibrada
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et elit. Dolor  turpis molestie dui magnis facilisis at fringilla quam.
+          No Foodie, nossa paixão é transformar ingredientes frescos em deliciosas refeições e entregá-las diretamente na sua porta.
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Desde pratos caseiros até especialidades gourmet, nosso compromisso é criar experiências culinárias memoráveis. Acreditamos que comida boa é uma forma de amor. Desfrute de pratos saborosos e saudáveis sem sair de casa.
         </p>
 
         <div className="about-buttons-container">

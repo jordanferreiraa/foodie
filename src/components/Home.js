@@ -18,9 +18,7 @@ export default function Home() {
             Sua comida favorita entregue quente e fresca
           </h1>
           <p className="primary-text">
-            Chefs saudáveis fazem todo o trabalho de preparação, como fazer
-            xixi, picar e marinar, para que você possa cozinhar um alimento
-            fresco
+            Excelentes chefs fazem todo o trabalho de preparação, como lavar, picar, marinar e cozinhar, para que você possa comer um alimento fresco e delicioso.
           </p>
           <button className="secondary-button">
             Peça Agora <FiArrowRight />
